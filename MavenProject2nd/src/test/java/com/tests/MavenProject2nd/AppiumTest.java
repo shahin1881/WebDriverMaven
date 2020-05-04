@@ -13,5 +13,6 @@ public class AppiumTest {
 	@Test
 	public void CloseBrowser(){
 	System.out.println("Closing Browser");
+	System.out.println("hello");
 }
 }
